@@ -17,3 +17,7 @@ For the parts:
   - No hotbed (for a start, it will come later)
   - Power supply @ 15€ (http://www.aliexpress.com/item/NEW-MODEL-12V-20A-240W-Switching-Power-Supply-Driver-For-LED-Strip-light-Display-AC100V-240V/1191092313.html)
   - 
+
+Usefull ionformation
+  - https://www.youtube.com/watch?v=U6rteW_-xIM : calibration video
+  - http://reprap.org/wiki/Leveling_the_Print_Bed
